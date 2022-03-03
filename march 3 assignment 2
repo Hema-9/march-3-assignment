@@ -1,0 +1,10 @@
+code:
+fruit=("apple","banana","keera","mango")
+vegetable=("tomato","onion","mirchi","ginger")
+for i,j in zip(fruit,vegetable):
+    print(i,j)
+ out put:
+ apple tomato
+banana onion
+keera mirchi
+mango ginger
